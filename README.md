@@ -1,0 +1,1 @@
+This Python program implements the Caesar Cipher algorithm for encrypting and decrypting text. Users can input a message and a shift value to perform encryption or decryption. It supports both uppercase and lowercase letters while leaving non-alphabetic characters unchanged.
